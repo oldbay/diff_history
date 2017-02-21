@@ -186,7 +186,7 @@ usage() {
     echo "-m - mode: iter (iteration:DEFAULT); rebase(cut the log); view(view log history)"
     echo "-d - start/stop/status iter daemon mode (replace -m {mode})"
     echo "-c - config file"
-    echo "-h help"
+    echo "-h - help"
 }
 
 # getopts for command keys
